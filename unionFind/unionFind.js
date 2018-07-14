@@ -19,6 +19,9 @@ class UnionFind {
     count() {
 
     }
+    someStupidMethod(){
+      
+    }
 
 }
 
